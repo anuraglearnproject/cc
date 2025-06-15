@@ -1,0 +1,9 @@
+1.I have 2 class A { M1() M2()}and class B :A { M4} A obj = new B(); B obj =  new B(); B obj =  new A();   What will be the output
+2.I have 5 middleware I need to skip 3rd middle ware How can i skip 
+3.I have a class where when I allow to create more than one instance it should throw error
+4.How do we call web application api in .net core application
+5.Method hiding and code
+6.Extension method is achieve by using which SOLID principles
+7.dependency injection
+8. how do you write custom middle ware
+9. ⁠why we use CORS and what are the types of Cors

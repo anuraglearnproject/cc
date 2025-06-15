@@ -1,0 +1,19 @@
+<script type="text/javascript">
+
+do{
+	var getNum = prompt("Enter a number");
+	if(isNaN(getNum)){
+		alert("please enter the valid number");
+	}
+}
+while(isNaN(getNum));
+let original = parseInt(getNum);
+let reversed = 0;
+while(getNum > 0){
+	let digit = getNum % 10;
+	reversed = reversed * 10 + digit;
+	getNum = parseInt(getNum / 10);
+}
+let result = reversed == original ? "Number is a palindrome" : "Number is not a palindrome.";
+alert(result);
+</script>

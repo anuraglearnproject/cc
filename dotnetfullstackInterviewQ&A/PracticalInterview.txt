@@ -1,0 +1,19 @@
+tblEmployee(eid, name, depid)
+tblDepartment(depid, depname)
+how you get the name and depname using inner join?
+
+string s = "sagar";
+how you get the last three characters from above string using C#?.
+
+string s = "141";
+how you change to integer for above string using C#?
+
+<div id="skillsDiv">
+  <p>HTML</p>
+  <p>CSS</p>
+  <p>JavaScript</p>
+  <p>SQL</p>
+</div>
+how you set the background color for above paragraphs using CSS and jQuery/JavaScript?
+
+<button id="deleteBtn"><button>

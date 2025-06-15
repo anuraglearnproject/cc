@@ -1,0 +1,11 @@
+1.IEnumerable and IQueryable, can IEnumerable and Iqueryable write together 
+2.Thread,Task,async and await,
+3.Program of async await 
+4.Const vs readonly vs static
+5.Span and memory 
+6.Program : input string “UnControlle” output “Uncotrle”
+7.Program spiral n* n matrix
+8. Single vs SingleorDefault first vs FirstOrDefault
+9.Dependency Injection 
+10. Garbage collection
+11. ⁠References type and value type

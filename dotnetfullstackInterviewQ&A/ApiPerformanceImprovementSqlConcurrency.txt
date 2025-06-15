@@ -1,0 +1,11 @@
+How many types of inheritance in EntityFramework?
+How to disable tracking in EF globally or single place?
+What use ModelBuilder class?
+What are things making asp.net core to cross platform?
+How many states in EF?
+
+What are the key differences between Entity Framework 6 (EF6) and Entity Framework Core (EF Core)?
+How can I implement compression in a .NET API?
+How can I implement soft delete in EF Core?
+What keywords or tools can I use to check query performance in MS SQL?
+What are the ways to manage concurrency in MS SQL?

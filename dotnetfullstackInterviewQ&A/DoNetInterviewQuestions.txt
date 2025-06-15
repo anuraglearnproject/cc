@@ -1,0 +1,177 @@
+JD-.Net Core OR .Net MVC, .Net C#, JQuery, MS SQL, Entity Framework
+
+1. Value type and ref type with example.
+2. Constant in SQL.
+3. Prop and attr difference in javascript and jquery.
+4. selectors in jquery
+5. Can be defaine multiple catch block with one try block.
+6. How to throw exception in c#.
+7. join all types.
+8. dependency injection c#.
+9. Constractor in C#.
+10. Solid prenciple.
+  S: Single Responsibility Principle (SRP)
+  O: Open closed Principle (OCP)
+  L: Liskov substitution Principle (LSP)
+  I: Interface Segregation Principle (ISP)
+  D: Dependency Inversion Principle (DIP)
+ 
+
+-outer join
+-Finilaise method in c#
+11. Page life cycle.
+12. Tupple in C#
+13. Nested Tuples.
+14. Magic table in sql.
+15. Indexer in C#.
+16. Indexer in SQL.
+17. Using Clause.
+18. Merge Statement.
+19. Desgin pattern.
+20. ADO.Net VS Entity Freamwork.
+21. What MS SQL.
+22. For loop and Foreach difference.
+23. Finilize and Dispose method difference.
+Bulit in deligate
+Response.redirect vs tranfer
+Slice vs splice
+Procedure vs function
+Aggregate function
+Rank vs drank SQL
+Producer vs trigger 
+Type of trigger
+Composite key
+How to remove primery key for column
+Use two primary key in single table
+Ajax sytnex 
+Transition log
+View state and session
+Readonly member vs static member
+Instance veriable or instance veriable kha pe save hota hai stack or heap
+Stack or heap 
+Type of selector jQuery
+jquery stirng revrse  function
+equi join in sql
+cross join
+route table in mvc
+Auto post back
+QueryString
+stateless vs stateful c# 
+ilist in c#
+ilist vs icollection vs ienumerable 
+Delete vs truncate
+Magic table
+cte in sql server
+Int.parse 
+Json data ko kese get krtye hai
+Image save krwane k liye kya datatype ayega
+Data encrypt krne k liye konsa data type ayega
+Nth in jQuery
+Promise () in jQuery (Advance)
+1.Features of OOPs with real time example.
+
+difference between interface and abstraction? - difference between abstract class and abstract method?
+
+-how can you achieve abstraction?
+
+-what is polymerphism and types of polymerphism
+
+-method overloading and overriding with well explained example
+
+2. Constructors and types
+
+3.call by value and call by reference and where we should use?
+
+4.virtual function
+
+5.Exception handling
+
+6.explain types of inheritances
+
+7.Difference between struct and class
+
+8.managed and unmanaged code in c#
+
+9.Difference between constant and readonly with example
+
+10.difference between internal and private
+
+11.what is delegate?
+
+12.Difference between list and collection
+
+13.Dependency injection with example
+
+14.why do we use partial class?
+
+15.why do we use static class?
+
+16.what are Func and Action, why do we use?
+
+17.Anonymous methods (Advance)
+
+18.Difference between ref and out keyword
+
+19.Difference between array and arraylist
+
+20.String and string builder
+
+Some questions from MVC
+
+1.why mvc?
+
+2.bundling and mimification (In ASP.NET MVC)
+
+3.action filters and types
+
+4.what is antiforgery token?
+
+5.viewdata,viewbag,tempdata
+
+6.Different ways to pass data from controller to view
+
+7.what is routing?
+
+8.why do we use partial view?
+
+9.How to pass data from view to controller?
+
+10.HTTPGET,HTTPPOST
+
+11.Action results
+
+12.Adding routes to webform application and mvc
+
+13.Methods to add constraints to a route
+
+14.IQueryable vs IEneumerable
+
+15.why and how we use sessions in mvc?
+
+16.what is custom action filter?
+
+17.POCO Class
+
+18.what is scaffolding?
+
+19.How to bind more than one model to view?
+
+20.How to validate data?
+
+21.Data reader, Data set, Data Adapter, Data table (In ADO.NET)
+
+22.Connected architecture and disconnected architecture
+
+23.Execute non query, execute scalar, execute reader (In ADO.NET)
+
+24.Difference between viewstate and session
+
+25.what are nullable types and generic types
+
+26.what is model binder?
+
+27.How to increase performance?
+
+28.session,cookie and cache
+
+29.Difference between finalize and dispose
